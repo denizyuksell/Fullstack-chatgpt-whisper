@@ -12,6 +12,9 @@ A fullstack application featuring a React frontend and a Node.js (Express) backe
 - **Loading indicators**: Shows feedback while waiting for API responses
 
 ---
+## Demo
+
+![App Screenshot](./ScreenShot.png)
 
 ## Prerequisites
 - Node.js (v18+ recommended)
