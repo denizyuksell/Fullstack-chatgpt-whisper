@@ -24,7 +24,7 @@ A fullstack application featuring a React frontend and a Node.js (Express) backe
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/denizyuksell/Fullstack-chatgpt-whisper.git
 cd fullstack-app
 ```
 
